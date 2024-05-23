@@ -92,7 +92,7 @@ Imagine Earth facing an imminent threat from invading aliens who challenge us to
 ## Final 11:
 
 ![Final 11](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Final%2011.png)
-![Best11](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Final%2011.png)
+![Best11](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Best%2011%20to%20save%20our%20planet.png)
 
 ## Outcome
 Assembled the “Final 11” to defend Earth against the alien invaders! This project exemplifies the power of data science in making strategic, data-driven decisions in cricket.
