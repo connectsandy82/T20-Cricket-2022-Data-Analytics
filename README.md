@@ -5,7 +5,7 @@ Excited to share my latest project where I embarked on a data-driven journey to 
 ## Project Title: “End-to-End Cricket Data Analytics Using Python, Pandas, and Power BI”
 
 ## Links to Explore:
-**Interactive Dashboard:** [View Dashboard](https://rb.gy/k0s630)
+**Interactive Dashboard:** [View Dashboard](https://shorturl.at/4ssUj)
 
 **Presentation Video:** Coming Soooooon!
 
