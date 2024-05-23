@@ -69,7 +69,7 @@ Imagine Earth facing an imminent threat from invading aliens who challenge us to
 
 ![Data Model](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Data%20Model.png)
 
-## Power Hitters View Page:
+## Power Hitters:
 
 ![Power Hitters](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Power%20Hitters.png)
 
@@ -88,6 +88,11 @@ Imagine Earth facing an imminent threat from invading aliens who challenge us to
 ## Fast Bowlers:
 
 ![Fast Bowlers](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Fast%20Bowlers.png)
+
+## Final 11:
+
+![Final 11](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Final%2011.png)
+![Best11](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Final%2011.png)
 
 ## Outcome
 Assembled the “Final 11” to defend Earth against the alien invaders! This project exemplifies the power of data science in making strategic, data-driven decisions in cricket.
