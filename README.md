@@ -50,7 +50,7 @@ Imagine Earth facing an imminent threat from invading aliens who challenge us to
           - Normalizing and scaling data.
           - Preparing data for analysis and visualization.   
 
-          You can find the detailed Jupyter Notebook [here](ht).
+          You can find the detailed Jupyter Notebook [here](https://shorturl.at/9Har7).
 
 ### 4️⃣ Analyzing Data with Power BI
 - **Import CSV**: Imported the CSV file into Power BI for in-depth analysis.
