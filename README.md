@@ -4,6 +4,11 @@ Excited to share my latest project where I embarked on a data-driven journey to 
 
 ## Project Title: “End-to-End Cricket Data Analytics Using Python, Pandas, and Power BI”
 
+## Links to Explore:
+**Interactive Dashboard:** [View Dashboard](https://rb.gy/k0s630)
+
+**Presentation Video:** Coming Soooooon!
+
 ## Problem Statement
 Imagine Earth facing an imminent threat from invading aliens who challenge us to a high-stakes T20 cricket match. The fate of humanity rests on assembling the “BEST 11” cricket team to take on the Alien 11.
 
