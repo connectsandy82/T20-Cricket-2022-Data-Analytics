@@ -24,6 +24,29 @@ Imagine Earth facing an imminent threat from invading aliens who challenge us to
 - **Data Handling**: Facilitated easy data handling and analysis.
 - **Save Data**: Saved the CSV file for the next step.
 
+    - ## Jupyter Notebook Analysis:
+
+      Data cleaning, exploratory data analysis (EDA), and transformation were performed using Python in Jupyter Notebook. The notebook's objectives are to analyze the data 
+      and present data-driven insights.
+
+      ### Steps in the Jupyter Notebook:
+
+       1. **Data Import and Data Exploration:**
+          - Importing data from various sources.
+          - Initial exploration to understand data structure and content.
+
+       2. **Data Cleaning:**
+          - Handling missing values.
+          - Correcting data types.
+          - Removing duplicates and irrelevant data.
+
+       3. **Data Transformation:**
+          - Creating new features.
+          - Normalizing and scaling data.
+          - Preparing data for analysis and visualization.   
+
+          You can find the detailed Jupyter Notebook [here](https://rb.gy/0manv0).
+
 ### 4️⃣ Analyzing Data with Power BI
 - **Import CSV**: Imported the CSV file into Power BI for in-depth analysis.
 - **Data Exploration**: Explored data with Power BI’s visualization tools to uncover trends and insights.
@@ -36,6 +59,26 @@ Imagine Earth facing an imminent threat from invading aliens who challenge us to
 - **Interactive Dashboard**: Crafted an interactive and visually stunning dashboard in Power BI.
 - **Highlighting Top Players**: Highlighted the top 11 players and their stellar performances.
 - **Detailed Insights**: Showcased detailed insights on player performance and team dynamics.
+  
+## Provided Mock-up Dashboard:
+
+![Mock-up Dashboard](https://github.com/connectsandy82/AtliQ-Grands-Hospitality-Analysis/blob/main/mock%20up%20dashboard_atliq%20grands.png)
+
+## Data Model:
+
+![Data Model](https://github.com/connectsandy82/AtliQ-Grands-Hospitality-Analysis/blob/main/Data%20Modelling.png)
+
+## Monthly Analysis View:
+
+![Monthly Analysis](https://github.com/connectsandy82/AtliQ-Grands-Hospitality-Analysis/blob/main/Hospitality%20Main%20View.png)
+
+## Performance Metrics:
+
+![Performance Metrics](https://github.com/connectsandy82/AtliQ-Grands-Hospitality-Analysis/blob/main/Hospitality%20Performance%20Metrices.png)
+
+## Revenue Contributors:
+
+![Revenue Contributors](https://github.com/connectsandy82/AtliQ-Grands-Hospitality-Analysis/blob/main/Top%20Revenue%20Contributors.png)
 
 ## Outcome
 Assembled the “Final 11” to defend Earth against the alien invaders! This project exemplifies the power of data science in making strategic, data-driven decisions in cricket.
