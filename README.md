@@ -60,9 +60,10 @@ Imagine Earth facing an imminent threat from invading aliens who challenge us to
 - **Highlighting Top Players**: Highlighted the top 11 players and their stellar performances.
 - **Detailed Insights**: Showcased detailed insights on player performance and team dynamics.
   
-## Provided Mock-up Dashboard:
+## Provided Mock-up Dashboards:
 
-![Mock-up Dashboard](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Mock%20Up.pptx)
+![Mock-up Dashboard 1](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Mock%20up%20Dashboard%201.png)
+![Mock-up Dashboard 2](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Mock%20up%20Dashboard%202.png)
 
 ## Data Model:
 
@@ -82,7 +83,11 @@ Imagine Earth facing an imminent threat from invading aliens who challenge us to
 
 ## All Rounders:
 
-![All Rounders]()
+![All Rounders](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/All%20Rounders.png)
+
+## Fast Bowlers:
+
+![Fast Bowlers](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Fast%20Bowlers.png)
 
 ## Outcome
 Assembled the “Final 11” to defend Earth against the alien invaders! This project exemplifies the power of data science in making strategic, data-driven decisions in cricket.
