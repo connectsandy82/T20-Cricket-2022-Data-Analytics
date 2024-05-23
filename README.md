@@ -45,7 +45,7 @@ Imagine Earth facing an imminent threat from invading aliens who challenge us to
           - Normalizing and scaling data.
           - Preparing data for analysis and visualization.   
 
-          You can find the detailed Jupyter Notebook [here](https://rb.gy/0manv0).
+          You can find the detailed Jupyter Notebook [here](ht).
 
 ### 4️⃣ Analyzing Data with Power BI
 - **Import CSV**: Imported the CSV file into Power BI for in-depth analysis.
@@ -62,23 +62,27 @@ Imagine Earth facing an imminent threat from invading aliens who challenge us to
   
 ## Provided Mock-up Dashboard:
 
-![Mock-up Dashboard](https://github.com/connectsandy82/AtliQ-Grands-Hospitality-Analysis/blob/main/mock%20up%20dashboard_atliq%20grands.png)
+![Mock-up Dashboard](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Mock%20Up.pptx)
 
 ## Data Model:
 
-![Data Model](https://github.com/connectsandy82/AtliQ-Grands-Hospitality-Analysis/blob/main/Data%20Modelling.png)
+![Data Model](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Data%20Model.png)
 
-## Monthly Analysis View:
+## Power Hitters View Page:
 
-![Monthly Analysis](https://github.com/connectsandy82/AtliQ-Grands-Hospitality-Analysis/blob/main/Hospitality%20Main%20View.png)
+![Power Hitters](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Power%20Hitters.png)
 
-## Performance Metrics:
+## Anchors / Middle Orders:
 
-![Performance Metrics](https://github.com/connectsandy82/AtliQ-Grands-Hospitality-Analysis/blob/main/Hospitality%20Performance%20Metrices.png)
+![Anchors](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Anchors%20Middle%20Orders.png)
 
-## Revenue Contributors:
+## Finishers:
 
-![Revenue Contributors](https://github.com/connectsandy82/AtliQ-Grands-Hospitality-Analysis/blob/main/Top%20Revenue%20Contributors.png)
+![Finishers](https://github.com/connectsandy82/T20-Cricket-2022-Data-Analytics/blob/main/Finishers.png)
+
+## All Rounders:
+
+![All Rounders]()
 
 ## Outcome
 Assembled the “Final 11” to defend Earth against the alien invaders! This project exemplifies the power of data science in making strategic, data-driven decisions in cricket.
